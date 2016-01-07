@@ -2,7 +2,7 @@
 #Ladies Learning Code
 ##Introduction to Ruby
 
-Created by [Dessy Deskalov](https://twitter.com/dess_e) for Ladies Learning Code
+Based on [this workshop](https://github.com/ladieslearningcode/Ruby) Created by [Dessy Deskalov](https://twitter.com/dess_e) for Ladies Learning Code.
 
 Updated by [Jenna Blumenthal](https://github.com/jennaleeb) for UofT Coders
 
