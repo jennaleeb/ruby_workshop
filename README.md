@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Ladies Learning Code
 ##Introduction to Ruby
 
@@ -14,4 +14,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 =======
 # ruby_workshop
 Modification of slides from Ladies Learning Code for Mozilla UofT workshop
->>>>>>> 47c66dc50e306cdb3ae89395634a4ba4ee9a9d0a
+
