@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Ladies Learning Code
 ##Introduction to Ruby
 
@@ -10,3 +11,7 @@ Created with <a href="https://github.com/LeaVerou/csss/sample-slideshow.html">Le
 Workshop attendees: click the "Download zip" button to the right to download the slides. Open **slides.html** to view the slides in your browser. 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+=======
+# ruby_workshop
+Modification of slides from Ladies Learning Code for Mozilla UofT workshop
+>>>>>>> 47c66dc50e306cdb3ae89395634a4ba4ee9a9d0a
